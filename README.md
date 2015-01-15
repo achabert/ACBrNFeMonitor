@@ -471,12 +471,6 @@ true
 6. Push to the branch (`git push origin my-new-feature`)
 7. Create new Pull Request
 
-## License
-
-"THE BEER-WARE LICENSE" (Revision 42):
-
-As long as you retain this notice you can do whatever you want with this stuff. If we meet some day, and you think this stuff is worth it, you can buy me a beer in return.
-
 ## Creators
 
 **Eduardo Malherbi Martins**
@@ -492,3 +486,9 @@ As long as you retain this notice you can do whatever you want with this stuff. 
 ## Maintained
 
 Maintained by [Bigodes Team](https://github.com/bigodes).
+
+## License
+
+"THE BEER-WARE LICENSE" (Revision 42):
+
+As long as you retain this notice you can do whatever you want with this stuff. If we meet some day, and you think this stuff is worth it, you can buy me a beer in return.
